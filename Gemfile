@@ -5,7 +5,7 @@ ruby "2.6.5"
 
 gem "rails", "~> 5.2.4", ">= 5.2.4.2"
 gem "sqlite3"
-gem "puma", "~> 3.11"
+gem "puma", "~> 4.3"
 gem "simple_form"
 gem "bootstrap-sass"
 gem "jquery-rails"
